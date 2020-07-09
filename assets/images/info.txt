@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: OleoScript-Bold
+font link: https://fonts.google.com/specimen/Oleo+Script
+font author: soytutype fonts
+font author site: https://twitter.com/soytutype
+Slogan Font: Questrial-Regular.otf
+
+icon designer: Bestdesignmarket
+icon designer link: /bestdesignmarket
+        
+{"bg-gradient-0":"#420F14","bg-gradient-1":"#C5545E","icon":"#ffffff","font":"#ffffff","slogan":"#ffffff"}
+      

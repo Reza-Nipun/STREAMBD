@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.streambd.co/</loc>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>https://streambd.co/welcome/categoryWisePage/1/MOVIES</loc>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://streambd.co/welcome/subCategoryWisePage/1/1/ENGLISH</loc>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://streambd.co/welcome/subCategoryWisePage/1/2/BANGALI</loc>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://streambd.co/welcome/subCategoryWisePage/1/3/HINDI</loc>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://streambd.co/welcome/subCategoryWisePage/1/4/TAMIL</loc>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://streambd.co/welcome/subCategoryWisePage/1/9/ANIMATION</loc>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://streambd.co/welcome/categoryWisePage/2/TV%20CHANNELS</loc>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://streambd.co/welcome/subCategoryWisePage/2/5/BANGLA</loc>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://streambd.co/welcome/subCategoryWisePage/2/6/HINDI</loc>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://streambd.co/welcome/subCategoryWisePage/2/8/ENGLISH</loc>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://streambd.co/welcome/subCategoryWisePage/2/10/KIDS</loc>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://streambd.co/welcome/categoryWisePage/3/RADIO</loc>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://streambd.co/welcome/subCategoryWisePage/3/7/BANGLA</loc>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://streambd.co/welcome/aboutPage</loc>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://streambd.co/welcome/contactUs</loc>
+  <priority>0.5</priority>
+</url>
+
+
+</urlset>
